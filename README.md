@@ -1,4 +1,4 @@
-# Página Pessoal de Dimas Maranhao
+# Página Pessoal de Dimas Maranhao         <img align="right" width="90" height="90" src="https://github.com/DimasMaranhao/DimasMaranhao/blob/main/SmmIcon.jpg">                        
 
 E aí pessoal, blz? Eu sou Dimas Maranhao
 

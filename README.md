@@ -12,11 +12,17 @@ E vou chegar lá!
 
 
 
-## Sobre mim
+## Sobre mim                                                                            
 
  - Sou Nerd (e não tenho vergonha em dizê-lo)
  - Sou do Recife (#ComOrgulhoeComSaudade)
  - Adoro cachorros
+ 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dimasmaranhao&hide=PureBasic)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 
 
 

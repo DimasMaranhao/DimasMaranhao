@@ -3,11 +3,11 @@
 E aí pessoal, blz? Eu sou Dimas Maranhao
 
 Administrador pela Universidade Federal de Pernambuco - UFPE,
-mas em processo de migração de carreira para a área de T.I.
-Ainda não tenho certeza em que área específica pretendo trabalhar
-(Backend, Frontend, Desenvolvimento de jogos...) 
-mas, para tornar isso possível, fiz o curso do Next - Cesar School,
-algumas imersões em cursos online e sigo percorrendo a trilha do aprendizado...
+em processo de migração de carreira para a área de T.I.
+Ainda não tenho certeza em que área específica, mas gosto de trabalhar
+com Backend e Frontend. 
+Para tornar esse sonho possível, estou fazendo o curso de Java na Fuctura Recife,
+fiz o curso do Next - Cesar School, algumas imersões em cursos online e sigo percorrendo a trilha do aprendizado...
 
 E vou chegar lá!
 

@@ -3,7 +3,7 @@
 E aí pessoal, blz? Eu sou Dimas Maranhao
 
 Administrador pela Universidade Federal de Pernambuco - UFPE,
-em processo de migração de carreira para a área de T.I.
+em processo de transição de carreira para a área de T.I.
 Ainda não tenho certeza em que área específica, mas gosto de trabalhar
 com Backend e Frontend. 
 Para tornar esse sonho possível, estou fazendo o curso de Java na Fuctura Recife,

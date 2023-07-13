@@ -5,7 +5,7 @@ E aí pessoal, blz? Eu sou Dimas Maranhao
 Administrador pela Universidade Federal de Pernambuco - UFPE,
 em processo de transição de carreira para a área de T.I.
 Ainda não tenho certeza em que área específica, mas gosto de trabalhar
-com Backend e Frontend. 
+com Backend. 
 Para tornar esse sonho possível, estou fazendo o curso de Java na Fuctura Recife,
 fiz o curso do Next - Cesar School, algumas imersões em cursos online e sigo percorrendo a trilha do aprendizado...
 
@@ -15,9 +15,10 @@ E vou chegar lá!
 
 ## Sobre mim                                                                            
 
- - Sou Nerd (e não tenho vergonha em dizê-lo)
+
  - Sou do Recife (#ComOrgulhoeComSaudade)
- - Adoro cachorros
+ - Part time dono de casa, part time marido, full time geek
+ - Papai do Chewie
  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dimasmaranhao&hide=PureBasic)](https://github.com/anuraghazra/github-readme-stats)
